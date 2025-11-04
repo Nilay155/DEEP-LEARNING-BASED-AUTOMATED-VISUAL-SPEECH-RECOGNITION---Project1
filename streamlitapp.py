@@ -26,7 +26,7 @@ with st.sidebar:
 
 **Pro Tips**:
 - Try different videos to see how accurate the predictions are.
-- Check out the [Paper](https://arxiv.org/pdf/1611.01599) and the [GitHub Repo](https://github.com/rizkiarm/LipNet) for more details.
+- Check out the [GitHub Repo](https://github.com/Nilay155/DEEP-LEARNING-BASED-AUTOMATED-VISUAL-SPEECH-RECOGNITION---Project1) for more details.
     """)
 
 # Fetch video options
